@@ -1,0 +1,87 @@
+.header
+{
+	height: 70px;
+	width: 900px;
+	margin: 0 auto 0 auto;
+	padding: 10px 0 0 40px;
+	background-color: #000000;
+	background-image:url(layout_resources/head_bg.jpg);
+	background-position: top left;
+	background-repeat: repeat;
+}
+
+ul li
+{
+	display: inline;
+	margin: 100px 20px 0 0;
+	padding: 60px 0 0 0;
+	text-align: center;
+	font-size: 14px;
+	text-transform: uppercase;
+	color: #ffffff;
+}
+
+ul img
+{
+	float: left;
+	height: 40px;
+	padding: 0 100px 30px 70px;
+}
+
+.slider
+{
+	width: 590px;
+	height: 200px;
+	background-color: #000000;
+	margin: 20px 300px 40px 350px;
+}
+
+.slider img 
+{
+	width: 590px;
+	height: 200px;
+}
+
+.Small_Images
+{
+	width: 600px;
+	height: 70px;
+	margin: 20px 300px 30px 350px;
+
+}
+
+.Small_Icon
+{
+	width: 140px;
+	height: 70px;
+	float: left;
+	padding-right:10px;
+}
+
+.Small_Icon img
+{
+	width: 140px;
+	height: 70px;
+}
+
+.border
+{
+	width: 590px;
+	margin: 20px 300px 30px 350px;
+	border-top: 1px solid #D3D3D3;
+}
+
+.ImageBox_Container
+{
+	width: 605px;
+	height: 200px;
+	margin: 0 300px 40px 350px;
+}
+.ImageBox img
+{
+	width: 186.66px;
+	height: 200px;
+	padding-right: 15px;
+	float: left;
+}
+

@@ -1,0 +1,196 @@
+body
+{
+background: #000000 url(images/stardust.png) top left repeat;
+font-family: Halvetica, Arial, "Times New Roman" , sans-serif;
+}
+.main-content	{
+background: #D3D3D3 url(images/crossword.png) top left repeat;
+}
+.recipes li {
+background: #ffffff url(images/li-bg.png) top left repeat;
+}
+
+
+p
+	{
+		{!-- text-decoration: underline; --!}
+		color: black;
+		margin: 20px 0 20px 10px;
+	}
+	a
+	{
+		text-decoration: none;
+	}
+	a:hover
+	{
+		text-decoration: underline;
+		color: darkred; 
+	}
+	
+{!--	ol li:nth-child(odd)
+	{
+	color: red;	
+	}--!}
+ {!-- body
+	{
+		padding: 0 20px 20px 10px;
+	} --!}
+	h1
+	{
+		margin: 20px 0 20px 10px;
+		color: #ffffff;
+		text-align: center;
+	}
+
+	h2
+	{
+		padding: 0px 3px 0 0;
+		margin: 0px 0 20px 10px;
+		color: #006400;
+		text-align: center;
+	}
+	h3
+	{
+		margin: 6px 0 0 10px; 
+		border-bottom: 2px solid #D3D3D3;
+		padding: 0 0 3px 0;
+		color: #006400;
+	}
+	
+	ul li
+	{
+		margin: 6px 0 0 0;
+		
+		{!--font-size: 20px;--!}
+	}
+	.nav
+	{
+		padding-left: 0;
+		color: #0000FF;
+		margin: 0px 0 20px 10px;
+		text-align: center;
+	}
+	.nav li
+	{
+         display: inline;
+         text-decoration: none; 
+	}
+	.recipes li
+	{
+		list-style-type: none;
+		border: 1px solid #b56663;
+
+	}
+	.recipes h3
+	{
+		border-bottom: 0;
+	}
+    .recipes a
+    {
+    	color: #7facaa;
+    	text-decoration: none;
+    }
+    .header
+    {
+    		padding: 10px;
+    		background-color: #b56663;
+    }
+    .header a
+    {
+    	color: #ffffff;
+    }
+    .main-content
+    {
+    	width: 900px;
+    	padding: 20px;
+    	border: 1px solid #dddddd;  
+    	margin: 30px auto 0 auto;
+    }
+
+	ol
+	{
+		padding: 0 0 0 40px;
+	}
+	a
+	{
+		padding: 0 0 0 0px;
+	}
+	li a
+	{
+		padding: 0 0 0 0;
+	}
+	img
+	{
+		width: 150px;
+		height: 90px;
+		background-position: top left;
+	}
+	.recipes img
+	{
+		float: left;
+		padding-right: 30px;
+	}
+
+	.Suggest
+	{
+		height: 715px;
+		width: 500px;
+		background-color: #D3D3D3;
+		margin: 0 auto 0 auto;
+		border: 6px solid #8B4513;
+	}
+	label ,input
+	{
+		display: block;
+		padding:7px 7px 7px 0;
+		margin-left: 7px;
+		width: 450px;
+	}
+
+	input
+	{
+		margin-bottom: 10px;
+	}
+	.Suggest textarea
+	{
+		margin-left: 7px;	
+		margin-bottom: 10px;
+		width: 450px;
+		height: 300px;
+		font-size: 16px;
+		font-family: Arial;
+	}
+	input[type=text]
+	{
+		font-size: 16px;
+		font-family: Arial;
+	}
+
+	.Suggest h3
+	{
+		text-align: center;
+		padding-top: 10px;
+		margin-bottom: 5px;
+	}
+	.Suggest input[type=checkbox], label[for=newsletter]
+	{
+		display: inline;
+		width: 10px;
+		padding-right: 0;
+		margin-top: 15px;
+	}
+	.Suggest input[type=submit]
+	{
+		width: 150px;
+		margin-top: 15px;
+	}
+
+	.footer p
+	{
+		font-weight: bold;
+		font-style: italic;
+		font-size: 14px;
+		text-transform: uppercase;
+		color: #ffffff;
+		text-align: center;
+	}
