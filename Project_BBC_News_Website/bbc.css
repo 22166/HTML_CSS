@@ -1,0 +1,309 @@
+			h1
+			{
+				margin:0;
+				padding:0;
+			}
+			body
+			{
+				margin:0;
+				padding:0;
+			}
+			h2
+			{
+				margin:0;
+				padding:0;
+			}
+			p div
+			{
+				margin:0;
+				padding:0;
+			}
+			a
+			{
+				text-decoration: none;
+			}
+			.topnav
+			{
+				width:100%;
+				height: 50px;
+			}
+			#BBC
+			{
+				/*background-color: #416E38;*/ 
+				width: 100px;
+				height: 70px;
+				float: left;
+				margin-left:150px;
+				margin-top:5px;
+				font-size:80%;
+			}
+			.ImageBox_BBC
+			{
+				width:100px;
+				height: 30px;
+			}
+			
+			#search
+			{	
+				margin-top:10px;
+				float:right;
+			/*	background-color: #A91717; */
+				margin-right:150px;
+				
+			}
+			form button 
+			{
+				float: right;
+				background: #ddd;
+				font-size: 20px;
+				border: none;
+				cursor: pointer;
+			}
+			form input
+			{
+				
+				outline:none;
+				font-size: 15px;
+				font-weight: 700;
+				background-color: #E4E4E4;
+			}
+			
+			 .links
+			{
+				
+				float: right;
+				margin: 10px 130px 0 10px; 
+			}
+			
+			.links_margin
+			{
+				margin-right:20px;
+				
+			}
+			.sublinks
+			{	
+				margin-top:10px;
+				margin-right: 100px;
+				float:right;
+				
+			}
+			.green:hover
+			{
+				text-decoration:underline;
+				color:green;
+			}
+			
+			.blue:hover
+			{
+				text-decoration: underline;
+				color: blue;
+			}
+			.black_topnav:hover
+			{
+				text-decoration: underline;
+				color: black;
+			}
+			
+			 .clear-floating
+			 {
+				clear:both;
+			 }
+			 
+			 #upper_red_bar
+			 {
+				background-color: #BB1919;
+				height: 80px;
+				display:block;
+				width:100%;
+				
+			 }
+			.input
+			{
+				float:right;
+				height: 30px;
+				width: 200px;
+				margin: 30px 250px auto 0px;
+				font-size: 20px;
+				background-color: #A91717;
+			}
+			::placeholder
+			{
+				color: black;
+			}
+			.ImageBox
+			{
+				float:left;
+				margin: 20px auto auto auto;
+				width:40px;
+				height: 40px;
+			}
+			.clear-floating
+			{
+				clear:both;
+			}
+			.lower_red_bar
+			{
+					height: 40px;
+					width: 100%;
+					background-color: #A91717;
+			}
+			.lower_red_bar_links
+			{
+				color:white;
+				margin-right:20px;
+				float:left;
+			}
+			.white:hover{
+			text-decoration:underline;
+			color:white;
+			}
+			.black_lower_red_bar:hover
+			{
+				background-color:black;
+				color:white;
+				text-decoration:none;
+			}
+			.links_placement
+			{
+				width: 950px;
+				height: 20px;
+				padding-top: 10px;
+				margin: 0 auto auto auto;
+			}
+			.clear-floating
+			{
+				clear:both;
+			}
+			.Technology
+			{
+				height: 50px;
+				width:20px;
+			}
+			.Heading2
+			{
+				height: 30px;
+				margin: 5px auto auto 200px;
+				text-decoration:underline;
+				font-family: "Times New Roman", Times, serif;
+				color:#4C4040;
+			}
+			.News_Videos
+			{
+				height:350px;
+				width: 980px;
+				margin: 0 auto 0 auto;
+			}
+			.Asda_bug_heading_Watch&Listen            /* height:330px; width: 930px;*/
+			{
+				height: 50px;
+				width: 950px;
+			}
+			.Asda_Bug_News_heading
+			{
+				height:50px;
+				width: 700px;
+				float:left;
+			}
+			.Watch_Listen
+			{
+				height:50px;
+				width:250px;
+				float:right;
+				margin: 5px 30px 0 0;
+			}
+			.Left_side_of_the_page
+			{
+				height:290px;
+				width: 650px;
+				float:left;
+			}
+			.Asda_Bug_text
+			{
+				height:250px;
+				width: 250px;
+				float:left;
+			}
+			.Asda_Image
+			{
+				height:280px;
+				width: 400px;
+				float:right;
+			}
+			.Horizontal_Bar
+			{
+				height:1px;
+				width: 650px;
+				border-bottom:1px solid #DBDBDB; 
+				float:left;
+			}
+			.Vertical_bar
+			{
+				height:290px;
+				border-right:1px solid #DBDBDB; 
+				float:left;
+				margin: 0 0 50px 20px; 
+			}
+			.UK_science_chief
+			{
+				height:90px;
+				width: 290px;
+				float:right;
+				margin:0 auto 0 5px;
+			}
+			.UK_science_chief_Image
+			{
+				height:90px;
+				width:87px;
+				float:left;
+			}
+			.UK_science_chief_text
+			{
+				height:80px;
+				width: 170px;
+				float:right;
+				position:relative;
+				bottom: 13px;
+			}
+			.Drone_register
+			{
+				height:90px;
+				width: 290px;
+				float:right;
+				margin: 0 auto 0 5px;
+			}
+			.Drone_register_image
+			{
+				height:90px;
+				width:87px;
+				float:left;
+			}
+			.Drone_register_text
+			{
+				height:90px;
+				width: 170px;
+				float:right;
+				position:relative;
+				bottom:15px;
+				
+			}
+			.SpaceX_rocket
+			{
+				height:120px;
+				width: 290px;
+				float:right;
+				margin: 0 auto 0 5px;
+			}
+			.SpaceX_rocket_Image
+			{
+				height:90px;
+				width:87px;
+				float:left;
+			}
+			.SpaceX_rocket_text
+			{
+				height:120px;
+				width: 170px;
+				float:right;
+				position:relative;
+				bottom: 15px;
+			}
